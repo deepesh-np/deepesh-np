@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepesh_
-- 👀 I’m interested in web dev and coding
+- 👀 I’m interested in web dev and coding dsa
 - 🌱 I’m currently learning web dev intermediate
 - 💞️ I’m looking to collaborate on web dev , hackathon , competitive coding
 - 📫 How to reach me- nrndpsh@gmail.com
