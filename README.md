@@ -1,20 +1,20 @@
 <!-- Banner / Hero -->
-<h1 align="center">Hi 👋, I'm Rishu</h1>
-<h3 align="center">Aspiring Software Engineer | Java • React • Spring Boot</h3>
+<h1 align="center">Hi 👋, I'm Deepesh</h1>
+<h3 align="center">Aspiring Software Engineer | Java • React • Node.js • SQL </h3>
 
 <p align="center">
   <a href="mailto:nrndpsh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-link"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/deepesh-np"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--   <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+  <a href="https://leetcode.com/Deepesh_np"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me  
 - 💻 Computer Science undergrad passionate about **building scalable apps** and solving tough problems.  
-- ⚡ Skilled in **Java, React, Spring Boot, and full-stack development**.  
-- 🏆 Hackathon participant | Competitive programmer on LeetCode & Codeforces.  
+- ⚡ Skilled in **Java, React, Node.js and full-stack development**.  
+- 🏆 Consistently practicing in **Hackathon** | problem-solving on **LeetCode** 
 - 🔭 Currently working on **real-world projects** to strengthen my portfolio.  
 
 ---
@@ -43,15 +43,19 @@
 
 ## 🌟 Featured Projects  
 
-- **[Zerodha Clone](https://github.com/your-link)**  
+- **[Zerodha Clone](https://github.com/deepesh-np/Zerodha_clone)**  
    A stock trading platform clone with real-time market data & charts.  
    `React` `Tailwind` `Node.js` `MongoDB`  
-
-- **[Hackathon App](https://github.com/your-link)**  
+<!--
+- **[Hackathon App]()**  
    Built in 24 hours – scalable web app for team collaboration.  
+   `Spring Boot` `MySQL` `React`  -->
+
+- **[Wanderlust](github.com/deepesh-np/wanderLust)**  
+   Airbnb-style full-stack web application for booking & managing stays.  
    `Spring Boot` `MySQL` `React`  
 
-- **[DSA Tracker](https://github.com/your-link)**  
+- **[DSA Tracker](https://github.com/deepesh-np/dsa-grind)**  
    Web app to track coding practice, stats & streaks.  
    `JavaScript` `Express` `MongoDB`  
 
@@ -60,15 +64,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepesh-np&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-np&layout=compact&theme=radical" alt="langs" height="150"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me  
 - 📧 Email: [nrndpsh@gmail.com](mailto:nrndpsh@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)  
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link)  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/deepesh-np)
+<!-- - 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link) -->
 
 ⚡ *Always open to opportunities & collaborations. Let’s build something impactful!*  
