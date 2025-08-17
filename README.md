@@ -22,22 +22,46 @@
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
 
 **Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</a>
+<a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</a>
 
 ---
 
@@ -72,7 +96,7 @@
 
 ## 📫 Connect With Me  
 - 📧 Email: [nrndpsh@gmail.com](mailto:nrndpsh@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/deepesh-np)
+- 💼 LinkedIn: [deepesh-np](https://www.linkedin.com/in/deepesh-np)
 <!-- - 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link) -->
 
 ⚡ *Always open to opportunities & collaborations. Let’s build something impactful!*  
