@@ -2,8 +2,11 @@
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
 <h3 align="center">Aspiring Software Engineer | Java • React • Node.js • SQL </h3>
 
-<p align="center">
-  <a href="mailto:nrndpsh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>
+<a href="mailto:nrndpsh@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   <a href="https://www.linkedin.com/in/deepesh-np"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--   <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
   <a href="https://leetcode.com/Deepesh_np"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -75,7 +78,7 @@
    Built in 24 hours – scalable web app for team collaboration.  
    `Spring Boot` `MySQL` `React`  -->
 
-- **[Wanderlust](github.com/deepesh-np/wanderLust)**  
+- **[Wanderlust](https://github.com/deepesh-np/Wanderlust)** 
    Airbnb-style full-stack web application for booking & managing stays.  
    `Spring Boot` `MySQL` `React`  
 
