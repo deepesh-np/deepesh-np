@@ -1,15 +1,19 @@
 <!-- Banner / Hero -->
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
 <h3 align="center">Aspiring Software Engineer | Java • React • Node.js • SQL </h3>
-
 <p align="center">
-<a href="mailto:nrndpsh@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-  <a href="https://www.linkedin.com/in/deepesh-np"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!--   <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-  <a href="https://leetcode.com/Deepesh_np"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:nrndpsh@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepesh-np">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- <a href="https://your-portfolio-link">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> -->
+  <a href="https://leetcode.com/Deepesh_np">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
