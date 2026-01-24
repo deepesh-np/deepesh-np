@@ -76,7 +76,12 @@
 
 - **[Zerodha Clone](https://github.com/deepesh-np/Zerodha_clone)**  
    A stock trading platform clone with real-time market data & charts.  
-   `React` `Tailwind` `Node.js` `MongoDB`  
+   `React` `Tailwind` `Node.js` `MongoDB`
+
+- **[Blog API](https://github.com/deepesh-np/blog_api)**  
+  A backend service for ingesting blog content, generating summaries, and enabling question-answering using a custom RAG pipeline.  
+  `FastAPI` `Python` `FAISS` `SentenceTransformers` `LLMs`
+  
 <!--
 - **[Hackathon App]()**  
    Built in 24 hours – scalable web app for team collaboration.  
@@ -86,7 +91,7 @@
    Airbnb-style full-stack web application for booking & managing stays.  
    `Spring Boot` `MySQL` `React`  
 
-- **[DSA Tracker](https://github.com/deepesh-np/dsa-grind)**  
+- **[DSA Tracker](https://github.com/deepesh-np/dsa_journey)**  
    Web app to track coding practice, stats & streaks.  
    `JavaScript` `Express` `MongoDB`  
 
@@ -99,6 +104,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-np&layout=compact&theme=radical" alt="langs" height="150"/>
 </p>
 
+---
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=deepesh-np&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📫 Connect With Me  
