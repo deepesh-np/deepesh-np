@@ -81,6 +81,7 @@
 - **[Blog API](https://github.com/deepesh-np/blog_api)**  
   A backend service for ingesting blog content, generating summaries, and enabling question-answering using a custom RAG pipeline.  
   `FastAPI` `Python` `FAISS` `SentenceTransformers` `LLMs`
+  ongoing project..
   
 <!--
 - **[Hackathon App]()**  
