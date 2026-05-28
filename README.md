@@ -35,7 +35,7 @@
 
 </div>
 
-> Built **[ShopScribe / CopyForge](https://think-fest.onrender.com)** — AI-powered e-commerce product copy generation platform
+> Built **[ShopScribe / CopyForge]** — AI-powered e-commerce product copy generation platform
 > - **Dual LLM routing** — LLaMA 3.3 70B (quality mode) + LLaMA 4 Scout (speed mode) via Groq API
 > - Bulk CSV pipeline · RBAC with JWT · Admin analytics with Recharts · MongoDB aggregation pipelines
 
