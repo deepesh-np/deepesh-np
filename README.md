@@ -120,7 +120,6 @@
 - Targeting FAANG-level DSA proficiency
 - Focus areas: hard problems, priority queues, multi-source BFS, segment trees
 
-[![LeetCode](https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Deepesh_np)
 
 ---
 
